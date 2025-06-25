@@ -5,7 +5,7 @@ theme = 'lynx'
 
 [params.author]
    name = "Gage Lara (Metamageia)"
-   headline = "DevOps | NixOS | TTRPGs | Music Production "
+   headline = "DevOps | NixOS | TTRPGs | Music Production"
   
    image = "img/author.png"  
 
