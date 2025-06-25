@@ -19,7 +19,7 @@ theme = 'lynx'
     { github = "https://github.com/metamageia" },
     { bandcamp = "https://gagelara.bandcamp.com/" },
     { itch = { href = "https://metamageia.itch.io/", text = "Itch.io" }},
-    { youtube = "https://youtube.com/thegagelara" },
+    { youtube = "https://youtube.com/@thegagelara" },
     { buymeacoffee = { href = "https://buymeacoffee.com/metamageia", text = "Buy me a Coffee" }},
     { email = "mailto:gageallenlara@gmail" },
 
