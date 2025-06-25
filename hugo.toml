@@ -7,7 +7,7 @@ theme = 'lynx'
    name = "Gage Lara (Metamageia)"
    headline = "DevOps | NixOS | TTRPGs | Music Production"
   
-   image = "img/author.png"  $ 
+   image = "img/author.png"  
 
   links = [
     { email = "mailto:gageallenlara@gmail" },
