@@ -1,5 +1,7 @@
 baseURL = 'https://links.gagelara.com'
 languageCode = 'en-us'
+canonifyURLs = true
+relativeURLs = true
 title = 'Gage Lara'
 theme = 'lynx'
 
@@ -20,7 +22,7 @@ theme = 'lynx'
     { youtube = "https://youtube.com/thegagelara" },
     { buymeacoffee = { href = "https://buymeacoffee.com/metamageia", text = "Buy me a Coffee" }},
     { email = "mailto:gageallenlara@gmail" },
-    
+
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { bluesky = "https://bsky.app/profile/username" },
