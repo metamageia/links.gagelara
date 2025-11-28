@@ -18,7 +18,7 @@ theme = 'lynx'
     { linkedin = "https://linkedin.com/in/gage-lara" },
     # { link = "https://blog.gagelara.com/" },
     { github = "https://github.com/metamageia" },
-    { twitter = "https://twitter.com/thegagelara" },
+    #{ twitter = "https://twitter.com/thegagelara" },
     { bandcamp = "https://gagelara.bandcamp.com/" },
     { itch = { href = "https://metamageia.itch.io/", text = "Itch.io" }},
     { youtube = "https://youtube.com/@thegagelara" },
