@@ -21,6 +21,7 @@ theme = 'lynx'
     #{ twitter = "https://twitter.com/thegagelara" },
     { bandcamp = "https://gagelara.bandcamp.com/" },
     { itch = { href = "https://metamageia.itch.io/", text = "Itch.io" }},
+    { OVERLORD = { href = "https://metamageia.github.io/overlord/", text = "OVERLORD" }},
     { youtube = "https://youtube.com/@thegagelara" },
     { buymeacoffee = { href = "https://buymeacoffee.com/metamageia", text = "Buy me a Coffee" }},
     { email = "mailto:gageallenlara@gmail" },
