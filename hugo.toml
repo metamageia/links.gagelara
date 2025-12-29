@@ -14,7 +14,7 @@ theme = 'lynx'
   links = [
     #{ resume = { href = "https://gagelara.com/", text = "Resume" }},
     { blog = { href = "https://blog.gagelara.com/", text = "Blog" }},
-    { dailies = { href = "http://daily.gagelara.com/", text = "Dailies" }},
+    { dailies = { href = "https://daily.gagelara.com/", text = "Dailies" }},
     { notes = { href = "https://notes.gagelara.com/", text = "Notes" }},
     { linkedin = "https://linkedin.com/in/gage-lara" },
     # { link = "https://blog.gagelara.com/" },
